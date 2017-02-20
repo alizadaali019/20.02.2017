@@ -1,0 +1,29 @@
+.wrapper{
+	width: 960px;
+	margin: 0 auto;
+
+}
+.row{
+	width: 100%;
+}
+.row>div{
+	width: 30%;
+	display: inline-block;
+	position: relative;
+	top:0px;
+}
+img{
+	width: 100%;
+}
+.dateTime{
+	position: absolute;
+	top:0px;
+}
+.dateTime span{
+	display: block;
+}
+.dateTime span {
+	background: #279295;
+}
+.row{
+	margin: 0 0 15px 0;
